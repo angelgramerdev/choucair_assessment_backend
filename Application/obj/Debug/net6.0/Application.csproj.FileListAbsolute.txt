@@ -1,0 +1,15 @@
+E:\ChoucairAssesment\TaskApi\Application\bin\Debug\net6.0\Application.deps.json
+E:\ChoucairAssesment\TaskApi\Application\bin\Debug\net6.0\Application.dll
+E:\ChoucairAssesment\TaskApi\Application\bin\Debug\net6.0\Application.pdb
+E:\ChoucairAssesment\TaskApi\Application\bin\Debug\net6.0\domain.dll
+E:\ChoucairAssesment\TaskApi\Application\bin\Debug\net6.0\domain.pdb
+E:\ChoucairAssesment\TaskApi\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\ChoucairAssesment\TaskApi\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChoucairAssesment\TaskApi\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\ChoucairAssesment\TaskApi\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\ChoucairAssesment\TaskApi\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\ChoucairAssesment\TaskApi\Application\obj\Debug\net6.0\Applicat.44B5EDA2.Up2Date
+E:\ChoucairAssesment\TaskApi\Application\obj\Debug\net6.0\Application.dll
+E:\ChoucairAssesment\TaskApi\Application\obj\Debug\net6.0\refint\Application.dll
+E:\ChoucairAssesment\TaskApi\Application\obj\Debug\net6.0\Application.pdb
+E:\ChoucairAssesment\TaskApi\Application\obj\Debug\net6.0\ref\Application.dll

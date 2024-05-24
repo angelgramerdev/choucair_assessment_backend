@@ -1,0 +1,14 @@
+E:\ChoucairAssesment\TaskApi\domain\bin\Debug\net6.0\domain.deps.json
+E:\ChoucairAssesment\TaskApi\domain\bin\Debug\net6.0\domain.runtimeconfig.json
+E:\ChoucairAssesment\TaskApi\domain\bin\Debug\net6.0\domain.dll
+E:\ChoucairAssesment\TaskApi\domain\bin\Debug\net6.0\domain.pdb
+E:\ChoucairAssesment\TaskApi\domain\obj\Debug\net6.0\domain.csproj.AssemblyReference.cache
+E:\ChoucairAssesment\TaskApi\domain\obj\Debug\net6.0\domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChoucairAssesment\TaskApi\domain\obj\Debug\net6.0\domain.AssemblyInfoInputs.cache
+E:\ChoucairAssesment\TaskApi\domain\obj\Debug\net6.0\domain.AssemblyInfo.cs
+E:\ChoucairAssesment\TaskApi\domain\obj\Debug\net6.0\domain.csproj.CoreCompileInputs.cache
+E:\ChoucairAssesment\TaskApi\domain\obj\Debug\net6.0\domain.dll
+E:\ChoucairAssesment\TaskApi\domain\obj\Debug\net6.0\refint\domain.dll
+E:\ChoucairAssesment\TaskApi\domain\obj\Debug\net6.0\domain.pdb
+E:\ChoucairAssesment\TaskApi\domain\obj\Debug\net6.0\domain.genruntimeconfig.cache
+E:\ChoucairAssesment\TaskApi\domain\obj\Debug\net6.0\ref\domain.dll
